@@ -1,0 +1,6 @@
+flask 
+deepface
+pillow 
+requests
+tf-keras
+gunicorn
