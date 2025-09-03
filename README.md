@@ -129,9 +129,4 @@ You can set these environment variables to customize the application:
 - Enable GPU support if available for better performance
 
 ## 📄 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
+- ### MIT
